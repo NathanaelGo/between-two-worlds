@@ -17,6 +17,6 @@ aliases:
 ___
 ### Summary
 
-
-Has a sword worth 7 million gold
+Has a sword worth 7 million gold named [[Somnia]] - gets sleepy when she hits someone with
+  [[Twin Drakes]] Tall person with white hair and black suits and face scars wanted to by the sword
 3 weeks old

@@ -13,4 +13,6 @@ aliases:
 
 ___
 ### Summary
-Working for [[Alphons Gallows]]
+'Jobber' Working for [[Alphons Gallows]]
+Has no insides 
+Her earrings are like air pods 

@@ -14,3 +14,5 @@ aliases:
 
 ___
 ### Summary
+Do not seek it, but if you must, bring nothing but silence, and pray it finds you less curious than I.
+[[The Arbiter]] fears her
