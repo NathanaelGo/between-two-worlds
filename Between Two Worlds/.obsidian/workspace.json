@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Cellos.md",
+                "file": "Gods/The Arbiter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cellos"
+              "title": "The Arbiter"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Cellos.md",
+                "file": "Gods/The Arbiter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cellos"
+              "title": "Backlinks for The Arbiter"
             }
           },
           {
@@ -279,8 +279,14 @@
   },
   "active": "71d93b29755473a3",
   "lastOpenFiles": [
-    "NPCs/Astero.md",
+    "Gods/Deathless Black Snake.md",
+    "Gods/The Arbiter.md",
+    "Gods/The Specter.md",
+    "Gods/Wandering Golem.md",
+    "Gods/Smoldering Moth.md",
+    "Gods/Clockwork Dragon.md",
     "NPCs/Cellos.md",
+    "NPCs/Astero.md",
     "img_cellos.png",
     "NPCs/Alavid Carston.md",
     "NPCs/Doze.md",
@@ -300,11 +306,6 @@
     "NPCs/Executioner.md",
     "NPCs/Esphemera.md",
     "NPCs/Ent Viscon.md",
-    "NPCs/Empel Royal.md",
-    "NPCs/Ellis Clock.md",
-    "NPCs/Callum Jade.md",
-    "NPCs/Belial.md",
-    "NPCs/Beatrice Bastille.md",
     "img_jezena.png",
     "Untitled 2.base",
     "Untitled 1.base",

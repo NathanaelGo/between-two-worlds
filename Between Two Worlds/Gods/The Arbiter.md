@@ -4,7 +4,8 @@ tags:
   - god
 aliases:
 ---
-*Image here*
+![[img_willful_unmaker.png]]
+
 
 ### Designations
 
