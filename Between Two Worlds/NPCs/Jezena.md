@@ -3,7 +3,8 @@ tags:
   - npcs
 aliases:
 ---
-![[img_Rurela.png]]
+![[img_jezena.png]]
+
 ### Designations
 Item seller at [[Sight Alsward|Alsward Sales and Services]]
 
@@ -12,6 +13,3 @@ Item seller at [[Sight Alsward|Alsward Sales and Services]]
 
 ___
 ### Summary
-Lives in [[Agarath]]
-Is going to college
-Works at the [[Blacksteel]] item selling booth 

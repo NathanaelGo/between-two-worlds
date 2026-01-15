@@ -12,4 +12,5 @@ aliases:
 
 ___
 ### Summary
-[[N Ko]] has a calling card of hers
+[[N Ko|Ko]] has a calling card of hers
+Wanted to watch the assignment of contracts for Luna's Birthday event

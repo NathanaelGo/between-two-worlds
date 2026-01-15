@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Untitled 3 4.md",
+                "file": "NPCs/Cellos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 3 4"
+              "title": "Cellos"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ventril Barosa.md",
+                "file": "NPCs/Astero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ventril Barosa"
+              "title": "Astero"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Masha Coldsteel.md",
+                "file": "NPCs/Rurela.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Masha Coldsteel"
+              "title": "Rurela"
             }
           },
           {
@@ -69,26 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Astrom.md",
+                "file": "NPCs/Jezena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Astrom"
-            }
-          },
-          {
-            "id": "42d134b80ebd3896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Nanoc the Bardbarian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nanoc the Bardbarian"
+              "title": "Jezena"
             }
           },
           {
@@ -97,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Pandora.md",
+                "file": "NPCs/Doze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandora"
+              "title": "Doze"
             }
           },
           {
@@ -130,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Nanoc the Bardbarian.md",
+                "file": "NPCs/Cellos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nanoc the Bardbarian"
+              "title": "Backlinks for Cellos"
             }
           },
           {
@@ -291,53 +277,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "42d134b80ebd3896",
+  "active": "71d93b29755473a3",
   "lastOpenFiles": [
+    "NPCs/Astero.md",
+    "NPCs/Cellos.md",
+    "img_cellos.png",
     "NPCs/Alavid Carston.md",
-    "NPCs/Nanoc the Bardbarian.md",
-    "NPCs/Alexis Veen.md",
-    "Places/Recollection.md",
-    "Lore/Astrom.md",
-    "NPCs/Alphons Gallows.md",
+    "NPCs/Doze.md",
     "Factions/Untitled 3 4.md",
-    "Factions/Twin Drakes.md",
-    "NPCs/Eidolon/Sleeping Fox/Umbra7.md",
-    "NPCs/Ventril Barosa.md",
-    "NPCs/Eidolon/The Bloodfiend/Duo.md",
-    "NPCs/Mars.md",
-    "NPCs/Zenth.md",
-    "NPCs/Vendez Bastille.md",
-    "NPCs/Vazlin Drakehound.md",
-    "NPCs/Varen.md",
-    "NPCs/Vareeza Silverheart.md",
-    "NPCs/Valter Goggins.md",
-    "NPCs/Thel Druul.md",
-    "NPCs/Tal Nial.md",
-    "NPCs/Sylas Valtail.md",
-    "NPCs/Silverhand Johnny.md",
-    "NPCs/Sentinel.md",
-    "NPCs/Rurela.md",
-    "NPCs/Richten Blacksteel.md",
-    "NPCs/Reed.md",
-    "Untitled.base",
-    "Untitled 1.base",
+    "NPCs/Kristen Baal.md",
+    "NPCs/Laylah.md",
+    "NPCs/Kirsten Footfalls.md",
+    "NPCs/Kemus Footfallen.md",
+    "NPCs/Kazic Blacksteel.md",
+    "NPCs/Jezena.md",
+    "NPCs/Hubble.md",
+    "NPCs/Gravitax Talon.md",
+    "NPCs/Godwin Tirfi.md",
+    "NPCs/Girduin Gelana.md",
+    "NPCs/Garson Forge.md",
+    "NPCs/Frankel Stein.md",
+    "NPCs/Executioner.md",
+    "NPCs/Esphemera.md",
+    "NPCs/Ent Viscon.md",
+    "NPCs/Empel Royal.md",
+    "NPCs/Ellis Clock.md",
+    "NPCs/Callum Jade.md",
+    "NPCs/Belial.md",
+    "NPCs/Beatrice Bastille.md",
+    "img_jezena.png",
     "Untitled 2.base",
-    "img_Effigy_of_a_second_kindred.png",
-    "img_The_Wandered_Thing.png",
-    "img_Connections_Between_the_Interplanar_and_Interstellar.png",
-    "img_Potential_Beyond_Purpose.png",
-    "img_Sylas_of_the_Waves.png",
-    "img_willful_unmaker.png",
-    "img_blacksteel_city_of_lies.png",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Pasted image 20260114190707.png",
+    "zzz_Images/Misc/img_blacksteel_city_of_lies.png",
+    "zzz_Images/Misc",
+    "zzz_Images/Misc/img_Connections_Between_the_Interplanar_and_Interstellar.png",
+    "zzz_Images/Misc/img_Effigy_of_a_second_kindred.png",
+    "zzz_Images/Misc/img_Potential_Beyond_Purpose.png",
+    "zzz_Images/Misc/img_Sylas_of_the_Waves.png",
+    "zzz_Images/Misc/img_The_Wandered_Thing.png",
+    "zzz_Images/Misc/img_willful_unmaker.png",
     "Lore/Books and Text",
-    "zzz_Images/PCs/img_Yokoji.png",
-    "zzz_Images/PCs/img_N_Ko.png",
-    "zzz_Images/NPCs/img_miss_poncho.png",
     "zzz_Images/PCs",
     "zzz_Images/NPCs",
     "NPCs/Eidolon/Deathless Black Snake",
     "NPCs/Eidolon/The Specter",
-    "NPCs/Eidolon/The Arbiter",
-    "NPCs/Eidolon/The Bloodfiend"
+    "NPCs/Eidolon/The Arbiter"
   ]
 }
