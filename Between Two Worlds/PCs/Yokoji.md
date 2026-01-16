@@ -14,3 +14,4 @@ Member of [[ICE]]
 
 ___
 ### Summary
+Not fond of [[Astero]]

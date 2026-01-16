@@ -13,3 +13,5 @@ aliases:
 
 ___
 ### Summary
+Being hunted
+Was tasked with killing [[Astero]] but doesn't

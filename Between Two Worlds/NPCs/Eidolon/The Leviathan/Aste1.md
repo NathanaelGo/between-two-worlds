@@ -16,3 +16,4 @@ ___
 ### Summary
 One of the 4 sponsors of Luna's birthday games
 Record keeper for the participants and group names
+Likes his book and bought [[Luna1]] a copy
