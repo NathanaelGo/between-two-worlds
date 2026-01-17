@@ -8,6 +8,7 @@ aliases:
 ![[img_luna1.png]]
 
 ### Designations
+Member of [[Honeycomb]]
 [[Eidolons|Eidolon]] of the [[Sleeping Fox]]
 Sponsor of [[ICE]]
 
@@ -23,3 +24,4 @@ Not allowed in [[Agarath]]
 
 
 Was in a party with [[Vega1]] exploring 3rd layer of [[Recollection]] way back in the day
+Loves coffee

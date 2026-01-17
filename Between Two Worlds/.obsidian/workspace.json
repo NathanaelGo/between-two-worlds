@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Eidolon/Sleeping Fox/Luna1.md",
+                "file": "Places/Luna's Leave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luna1"
+              "title": "Luna's Leave"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Feris.md",
+                "file": "NPCs/Kemus Footfallen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feris"
+              "title": "Kemus Footfallen"
+            }
+          },
+          {
+            "id": "29b8a3efee24cf1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Garson Forge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Garson Forge"
             }
           },
           {
@@ -41,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Kazic Blacksteel.md",
+                "file": "Lore/Astrols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kazic Blacksteel"
+              "title": "Astrols"
+            }
+          },
+          {
+            "id": "92ba93f41016ea90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Eidolon/The Leviathan/Aste1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aste1"
             }
           },
           {
@@ -143,8 +171,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Kazic Blacksteel.md",
+                "file": "Places/Luna's Leave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kazic Blacksteel"
+              "title": "Backlinks for Luna's Leave"
             }
           },
           {
@@ -236,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/Deathless Black Snake.md",
+                "file": "Places/Luna's Leave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deathless Black Snake"
+              "title": "Outgoing links from Luna's Leave"
             }
           },
           {
@@ -279,16 +306,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods/Deathless Black Snake.md",
+                "file": "Places/Luna's Leave.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deathless Black Snake"
+              "title": "Outline of Luna's Leave"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -305,34 +333,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "f297b889fa06dd2f",
+  "active": "d2fb8e3aa7330560",
   "lastOpenFiles": [
-    "NPCs/Eidolon/Sleeping Fox/Umbra7.md",
-    "NPCs/Empel Royal.md",
-    "NPCs/Astero.md",
-    "NPCs/Garson Forge.md",
-    "Places/Feris.md",
-    "NPCs/Mars.md",
-    "NPCs/Cellos.md",
+    "NPCs/Kemus Footfallen.md",
+    "Places/Luna's Leave.md",
     "NPCs/Eidolon/Sleeping Fox/Luna1.md",
-    "Places/Asphodel.md",
-    "Places/Agarath.md",
-    "Feris.md",
-    "NPCs/Meril.md",
-    "NPCs/Rurela.md",
-    "NPCs/Twain.md",
-    "NPCs/Zenth.md",
-    "NPCs/Alavid Carston.md",
-    "NPCs/Eidolon/The Leviathan/Aste1.md",
-    "NPCs/Tal Nial.md",
-    "Gods/Sleeping Fox.md",
-    "PCs/Yokoji.md",
-    "NPCs/Ventril Barosa.md",
-    "Gods/The Arbiter.md",
-    "Gods/Deathless Black Snake.md",
-    "Gods/The Specter.md",
-    "Gods/Wandering Golem.md",
-    "Gods/Smoldering Moth.md",
+    "NPCs/Kirsten Footfalls.md",
+    "NPCs/Kazic Blacksteel.md",
+    "NPCs/Jezena.md",
+    "NPCs/Hubble.md",
+    "NPCs/Gravitax Talon.md",
+    "NPCs/Godwin Tirfi.md",
+    "NPCs/Girduin Gelana.md",
+    "NPCs/Garson Forge.md",
+    "NPCs/Frankel Stein.md",
+    "NPCs/Fate.md",
+    "NPCs/Executioner.md",
+    "NPCs/Esphemera.md",
+    "NPCs/Ent Viscon.md",
+    "NPCs/Empel Royal.md",
+    "NPCs/Ellis Clock.md",
+    "NPCs/E M.md",
+    "NPCs/Doze.md",
+    "NPCs/Cersei.md",
+    "NPCs/Cellos.md",
+    "NPCs/Callum Jade.md",
+    "NPCs/Belial.md",
+    "NPCs/Beatrice Bastille.md",
+    "NPCs/Avery Blacksteel.md",
+    "Factions/Adventuring Groups",
     "img_cellos.png",
     "img_jezena.png",
     "Untitled 2.base",
@@ -351,7 +380,6 @@
     "zzz_Images/PCs",
     "zzz_Images/NPCs",
     "NPCs/Eidolon/Deathless Black Snake",
-    "NPCs/Eidolon/The Specter",
-    "NPCs/Eidolon/The Arbiter"
+    "NPCs/Eidolon/The Specter"
   ]
 }

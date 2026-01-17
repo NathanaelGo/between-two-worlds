@@ -6,7 +6,8 @@ aliases:
 
 
 ### Designations
-CritXX's manager 
+Member of [[Honeycomb]]
+[[CritXX]]'s manager 
 
 ### Current Location
 

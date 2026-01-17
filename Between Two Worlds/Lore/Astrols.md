@@ -2,7 +2,8 @@
 tags:
   - lore
 ---
-Creatures that are made of physical Astrom
+Creatures that are made of physical [[Astrom]]
+Unstable ones fluxates astrom more 
 
 ### [[Elysium]]'s Astrols
 

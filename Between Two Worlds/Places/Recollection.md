@@ -14,6 +14,7 @@ Plane made of pure [[astrom]]
 3 levels that get more dangerous the farther you go in
 presumably infinitely in all directions and no end has ever been found
 
+No stars until the 3rd layer
 
 ### [[Elysium]]'s Recollection
 Several entrances exist on [[Elysium]]

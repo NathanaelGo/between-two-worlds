@@ -15,3 +15,6 @@ Member of [[ICE]]
 
 ___
 ### Summary
+[[Kazic Blacksteel]] said he needed Garth to live before leaving him for dead in the [[Deadzone]]s
+
+His guitar is named 'Barely Workin'
