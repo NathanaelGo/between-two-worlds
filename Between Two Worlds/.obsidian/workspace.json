@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Luna's Leave.md",
+                "file": "NPCs/Ramses Fullhorn.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Luna's Leave"
+              "title": "Ramses Fullhorn"
             }
           },
           {
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Kemus Footfallen.md",
+                "file": "NPCs/Alavid Carston.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kemus Footfallen"
+              "title": "Alavid Carston"
             }
           },
           {
@@ -41,26 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Garson Forge.md",
+                "file": "NPCs/Godwin Tirfi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garson Forge"
-            }
-          },
-          {
-            "id": "f297b889fa06dd2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Astrols.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Astrols"
+              "title": "Godwin Tirfi"
             }
           },
           {
@@ -69,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Eidolon/The Leviathan/Aste1.md",
+                "file": "NPCs/Esphemera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aste1"
+              "title": "Esphemera"
             }
           },
           {
@@ -83,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Astero.md",
+                "file": "NPCs/Ines Beres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Astero"
+              "title": "Ines Beres"
             }
           },
           {
@@ -97,26 +84,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Mars.md",
+                "file": "NPCs/Nemesis19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mars"
+              "title": "Nemesis19"
+            }
+          },
+          {
+            "id": "8d0396f2a51f391e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Reed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reed"
             }
           },
           {
             "id": "89c39055748462e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Meril.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meril"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -171,7 +168,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Luna's Leave.md",
+                "file": "NPCs/Alavid Carston.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Luna's Leave"
+              "title": "Backlinks for Alavid Carston"
             }
           },
           {
@@ -263,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Luna's Leave.md",
+                "file": "NPCs/Alavid Carston.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Luna's Leave"
+              "title": "Outgoing links from Alavid Carston"
             }
           },
           {
@@ -306,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Luna's Leave.md",
+                "file": "NPCs/Alavid Carston.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Luna's Leave"
+              "title": "Outline of Alavid Carston"
             }
           }
         ],
@@ -333,16 +331,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d2fb8e3aa7330560",
+  "active": "71d93b29755473a3",
   "lastOpenFiles": [
-    "NPCs/Kemus Footfallen.md",
-    "Places/Luna's Leave.md",
-    "NPCs/Eidolon/Sleeping Fox/Luna1.md",
-    "NPCs/Kirsten Footfalls.md",
-    "NPCs/Kazic Blacksteel.md",
-    "NPCs/Jezena.md",
-    "NPCs/Hubble.md",
-    "NPCs/Gravitax Talon.md",
+    "NPCs/Ramses Fullhorn.md",
+    "NPCs/Alavid Carston.md",
     "NPCs/Godwin Tirfi.md",
     "NPCs/Girduin Gelana.md",
     "NPCs/Garson Forge.md",
@@ -351,16 +343,22 @@
     "NPCs/Executioner.md",
     "NPCs/Esphemera.md",
     "NPCs/Ent Viscon.md",
-    "NPCs/Empel Royal.md",
-    "NPCs/Ellis Clock.md",
-    "NPCs/E M.md",
     "NPCs/Doze.md",
-    "NPCs/Cersei.md",
     "NPCs/Cellos.md",
     "NPCs/Callum Jade.md",
-    "NPCs/Belial.md",
-    "NPCs/Beatrice Bastille.md",
     "NPCs/Avery Blacksteel.md",
+    "NPCs/Astero.md",
+    "NPCs/Arridine Malesten.md",
+    "NPCs/Alric Blacksteel.md",
+    "NPCs/Alphons Gallows.md",
+    "NPCs/Alexis Veen.md",
+    "NPCs/Tethys.md",
+    "Factions/Fang Hunt.md",
+    "NPCs/Ines Beres.md",
+    "NPCs/Nemesis19.md",
+    "NPCs/Reed.md",
+    "NPCs/Jezena.md",
+    "NPCs/Eidolon/The Leviathan/Aste1.md",
     "Factions/Adventuring Groups",
     "img_cellos.png",
     "img_jezena.png",

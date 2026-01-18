@@ -14,3 +14,4 @@ ___
 ### Summary
 Broken garbled speach
 Had [[ICE]] pick him up magic rocks for questing
+Has a curse on him that makes him think people understand him

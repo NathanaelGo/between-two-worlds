@@ -2,6 +2,7 @@
 tags:
   - npcs
 aliases:
+  - Lord of Barriers
 ---
 ![[img_Beatrice_Bastille.png]]
 
@@ -13,3 +14,5 @@ aliases:
 
 ___
 ### Summary
+Cant speak
+Upholds all the important barriers

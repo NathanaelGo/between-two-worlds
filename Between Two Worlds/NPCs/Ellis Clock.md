@@ -13,3 +13,5 @@ aliases:
 
 ___
 ### Summary
+Owner of [[Sight Alsward]]
+Whimsical and enjoys slightly toying with people

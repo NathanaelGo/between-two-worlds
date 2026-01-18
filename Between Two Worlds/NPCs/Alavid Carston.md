@@ -13,3 +13,4 @@ aliases:
 
 ___
 ### Summary
+Was at [[Sight Alsward]] waiting for employer 

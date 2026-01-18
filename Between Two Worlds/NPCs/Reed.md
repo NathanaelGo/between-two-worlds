@@ -2,6 +2,7 @@
 tags:
   - npcs
 aliases:
+  - Trash Can
 ---
 ![[img_reed.png]]
 
@@ -14,3 +15,4 @@ aliases:
 ___
 ### Summary
 Speaks Trashcan
+Created by [[Nemesis19]]

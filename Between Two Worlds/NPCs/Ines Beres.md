@@ -13,3 +13,4 @@ aliases:
 
 ___
 ### Summary
+Was at [[Sight Alsward]] - was looking for a job
