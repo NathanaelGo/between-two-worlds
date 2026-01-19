@@ -14,4 +14,7 @@ Working with [[Duo]]
 ___
 ### Summary
 Controlled by a [[Bloodfiends|Bloodfiend]] who took over their body
+Talks with a wolf head
 Investigating a town where people lost all their [[Astrom]]
+Can't leave [[Recollection]] due to her contract
+Alcoholic 

@@ -13,3 +13,4 @@ aliases:
 
 ___
 ### Summary
+some relation to [[Tr3ty]]

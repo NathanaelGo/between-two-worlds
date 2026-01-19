@@ -16,3 +16,4 @@ ___
 ### Summary
 Helping hide away [[Bloodfiends|Bloodfiends]] to protect them from prosecution 
 Was a school teacher and the little plush she has is a mascot she uses
+High priority target for [[Fang Hunt]]

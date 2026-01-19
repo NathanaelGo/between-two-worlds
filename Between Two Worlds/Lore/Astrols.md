@@ -14,6 +14,8 @@ Passive creatures not too dissimilar to farmland animals that we have in real li
 Incredibly dangerous creatures that incite violence and chaos
 They are the leading cause of the Deadzones of Asphodel and make it an incredibly harsh environment to live in. They are presumably passive and many of their horrific qualities seem to be no fault of their own.
 
+Can corrupt/destroy peoples astrom
+
 ### [[Recollection]]'s Astrols
 
 They seem to have been meticulously designed for combat, protecting the plane with their lives and ensuring that any inexperienced adventurers cannot access the lower levels of Recollection. 

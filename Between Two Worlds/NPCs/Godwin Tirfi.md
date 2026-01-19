@@ -2,6 +2,7 @@
 tags:
   - npcs
 aliases:
+  - Mumble Dwarf
 ---
 ![[img_Godwin_Tirfi.png]]
 ### Designations

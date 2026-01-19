@@ -3,14 +3,14 @@ tags:
   - npcs
 aliases:
 ---
-![[img_phobos.png]]
+*Image here*
 
 ### Designations
-[[Bloodfiends|Bloodfiend]]
+
 
 ### Current Location
 
 
 ___
 ### Summary
-High priority target for [[Fang Hunt]]
+some relation to [[Tr3ty]]

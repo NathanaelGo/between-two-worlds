@@ -22,3 +22,10 @@ Seeks fun above all else, making frequent bets with [[N Ko|N]] and others that f
 Pertinently keeps track of _everyone_ moving to and from the planets no matter what means they choose to do so by. [[BREAD Co]] reports even get sent to her!
 
 Has her eyes on all [[Eidolons]] she can and reports to [[The Arbiter]] and [[Blacksteel]]
+
+
+
+
+AC 23
+Reaction Counterspell + prevent that spell from being cast until the next long rest (if used multiple times it only blocks the latest spell)
+Legendary Resistance

@@ -20,7 +20,14 @@ No stars until the 3rd layer
 Several entrances exist on [[Elysium]]
 Accessing Layer 2 of Recollection through Elysium requires approval from a follower of The Arbiter and getting into Layer 3 is reserved for only the strongest people across the globe.
 
-Layers do seem vertical as the ring of return magic item made of [[Elysium]]'s [[Astrom]] allows for one barrier to be passed at a time with the level 1 leading to Elysium., 
+Layers do seem vertical as the ring of return magic item made of [[Elysium]]'s [[Astrom]] allows for one barrier to be passed at a time with the level 1 leading to Elysium. 
+
+In the past there have been events where people evacuate after big [[Astrols]] sighting. Party investigated a place where peoples astroms where completely removed.
+
+
+
+Ruins have small amounts of astrom in the stones
+
 
 ### [[Asphodel]]'s Recollection
 One entrance that is heavily guarded. Level one here is about as dangerous as Elysium's level 3

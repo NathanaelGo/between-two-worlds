@@ -13,3 +13,4 @@ aliases:
 
 ___
 ### Summary
+Taking action with [[Fang Hunt]]

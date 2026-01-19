@@ -3,7 +3,7 @@ tags:
   - npcs
 aliases:
 ---
-![[img_phobos.png]]
+*Image here*
 
 ### Designations
 [[Bloodfiends|Bloodfiend]]

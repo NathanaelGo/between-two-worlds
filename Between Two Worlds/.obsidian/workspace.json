@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ramses Fullhorn.md",
+                "file": "Lore/Astrols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ramses Fullhorn"
+              "title": "Astrols"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Alavid Carston.md",
+                "file": "Places/Recollection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alavid Carston"
+              "title": "Recollection"
             }
           },
           {
@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ines Beres.md",
+                "file": "NPCs/Klara Zarcovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ines Beres"
+              "title": "Klara Zarcovich"
             }
           },
           {
@@ -84,12 +84,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Nemesis19.md",
+                "file": "Factions/Fang Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nemesis19"
+              "title": "Fang Hunt"
+            }
+          },
+          {
+            "id": "de22feb3eaec8b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Eidolon/The Bloodfiend/Duo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Duo"
             }
           },
           {
@@ -98,22 +112,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Reed.md",
+                "file": "NPCs/Klara Zarcovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reed"
+              "title": "Klara Zarcovich"
             }
           },
           {
             "id": "89c39055748462e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Fang Hunt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fang Hunt"
             }
           },
           {
@@ -122,12 +140,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Jezena.md",
+                "file": "NPCs/Eidolon/The Bloodfiend/Duo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jezena"
+              "title": "Duo"
             }
           },
           {
@@ -136,12 +154,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Doze.md",
+                "file": "NPCs/Vivian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doze"
+              "title": "Vivian"
+            }
+          },
+          {
+            "id": "0843510b58fc15a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c860f996a9c9ac20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Mars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mars"
             }
           },
           {
@@ -150,26 +192,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Frankel Stein.md",
+                "file": "NPCs/Ivy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frankel Stein"
+              "title": "Ivy"
             }
           },
           {
             "id": "63100ab5c5dff5b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Eidolon/The Bloodfiend/Duo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Duo"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Alavid Carston.md",
+                "file": "Factions/Adventuring Groups/Honeycomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +298,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alavid Carston"
+              "title": "Backlinks for Honeycomb"
             }
           },
           {
@@ -261,12 +307,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Alavid Carston.md",
+                "file": "NPCs/Eidolon/The Bloodfiend/Duo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Alavid Carston"
+              "title": "Outgoing links from Duo"
             }
           },
           {
@@ -304,13 +350,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Alavid Carston.md",
+                "file": "Factions/Adventuring Groups/Honeycomb.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alavid Carston"
+              "title": "Outline of Honeycomb"
             }
           }
         ],
@@ -331,34 +377,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "71d93b29755473a3",
+  "active": "63100ab5c5dff5b6",
   "lastOpenFiles": [
-    "NPCs/Ramses Fullhorn.md",
-    "NPCs/Alavid Carston.md",
-    "NPCs/Godwin Tirfi.md",
-    "NPCs/Girduin Gelana.md",
-    "NPCs/Garson Forge.md",
+    "NPCs/Deimos.md",
+    "NPCs/Ivy.md",
+    "NPCs/Ash Mustang.md",
+    "NPCs/Eidolon/The Bloodfiend/Duo.md",
+    "NPCs/Ender Sisters.md",
+    "NPCs/Luke Griswell.md",
+    "2026-01-19.md",
+    "NPCs/Pandora.md",
+    "Places/Asphodel.md",
     "NPCs/Frankel Stein.md",
-    "NPCs/Fate.md",
-    "NPCs/Executioner.md",
-    "NPCs/Esphemera.md",
-    "NPCs/Ent Viscon.md",
-    "NPCs/Doze.md",
-    "NPCs/Cellos.md",
-    "NPCs/Callum Jade.md",
-    "NPCs/Avery Blacksteel.md",
-    "NPCs/Astero.md",
-    "NPCs/Arridine Malesten.md",
-    "NPCs/Alric Blacksteel.md",
-    "NPCs/Alphons Gallows.md",
-    "NPCs/Alexis Veen.md",
-    "NPCs/Tethys.md",
+    "NPCs/Mars.md",
+    "NPCs/Eidolon/The Bloodfiend/Sola1.md",
+    "NPCs/Vivian.md",
     "Factions/Fang Hunt.md",
-    "NPCs/Ines Beres.md",
-    "NPCs/Nemesis19.md",
-    "NPCs/Reed.md",
+    "Lore/Bloodfiends.md",
+    "NPCs/Phobos.md",
+    "NPCs/Doze.md",
+    "NPCs/Klara Zarcovich.md",
     "NPCs/Jezena.md",
-    "NPCs/Eidolon/The Leviathan/Aste1.md",
+    "NPCs/Esphemera.md",
+    "NPCs/Godwin Tirfi.md",
+    "Places/Recollection.md",
+    "Lore/Astrols.md",
+    "NPCs/Varen.md",
+    "NPCs/Reed.md",
+    "NPCs/Nemesis19.md",
     "Factions/Adventuring Groups",
     "img_cellos.png",
     "img_jezena.png",
