@@ -9,9 +9,8 @@ aliases:
 
 
 ### Current Location
-
+Paradiso
 
 ___
 ### Summary
-'mysterious hotshot that tried taking [[Tr3ty]] out'
-Dont want [[Tr3ty]] to meet mars 
+Friend of [[Tr3ty]]

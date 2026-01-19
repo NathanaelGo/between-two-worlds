@@ -6,7 +6,8 @@ aliases:
 *Image here*
 
 ### Designations
-
+DEAD
+Ex [[Eidolons|Eidolon]] of [[The Bloodfiend]]
 
 ### Current Location
 

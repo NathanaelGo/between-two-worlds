@@ -14,3 +14,6 @@ aliases:
 ___
 ### Summary
 some relation to [[Tr3ty]]
+
+Thought she had a grander purpose in life and tried to fulfil that
+Goes by a lot of names

@@ -6,12 +6,11 @@ aliases:
 *Image here*
 
 ### Designations
-
+Member of [[Aste1's Adventuring Group]]
 
 ### Current Location
 
 
 ___
 ### Summary
-'mysterious hotshot that tried taking [[Tr3ty]] out'
-Dont want [[Tr3ty]] to meet mars 
+Dislikes bloodfiends

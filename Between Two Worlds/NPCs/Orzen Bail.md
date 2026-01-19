@@ -3,14 +3,15 @@ tags:
   - npcs
 aliases:
 ---
-
+*Image here*
 
 ### Designations
-[[Bloodfiends|Bloodfiend]]
+Member of [[Aste1's Adventuring Group]]
 
 ### Current Location
 
 
 ___
 ### Summary
-Taking action with [[Fang Hunt]]
+Scholar
+Disliked bloodfiends

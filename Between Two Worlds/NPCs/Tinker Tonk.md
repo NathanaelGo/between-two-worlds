@@ -13,5 +13,6 @@ aliases:
 
 ___
 ### Summary
-'mysterious hotshot that tried taking [[Tr3ty]] out'
-Dont want [[Tr3ty]] to meet mars 
+Handshake does force damage
+Has been told hats look sexy on robots
+Not a wizard

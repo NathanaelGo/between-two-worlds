@@ -6,12 +6,13 @@ aliases:
 *Image here*
 
 ### Designations
-
+DEAD
+Ex [[Eidolons|Eidolon]] of [[The Bloodfiend]]
 
 ### Current Location
 
 
 ___
 ### Summary
-'mysterious hotshot that tried taking [[Tr3ty]] out'
-Dont want [[Tr3ty]] to meet mars 
+Dead
+Killed so [[Sola1]] could be at the top
