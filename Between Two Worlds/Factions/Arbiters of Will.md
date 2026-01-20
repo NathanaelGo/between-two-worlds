@@ -6,6 +6,7 @@ tags:
 [[The Arbiter]]
 [[Vega1]]
 [[Kazic Blacksteel]]
+[[Ventril Barosa]]
 ### Notable Places
 
 

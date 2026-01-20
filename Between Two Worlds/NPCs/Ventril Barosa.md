@@ -15,3 +15,4 @@ aliases:
 ___
 ### Summary
 Arbiter of Will watching over [[Meril]] and [[Umbra7]]
+Bore witness to the none selling of [[Umbra7]]'s sword [[Somnia]]

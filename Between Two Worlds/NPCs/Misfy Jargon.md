@@ -12,3 +12,4 @@ aliases:
 
 ___
 ### Summary
+Studying the purple waterfall in the ancient runes with [[Cammy7]] and [[Alric Blacksteel]]

@@ -20,3 +20,5 @@ One of the most prestigious place in the world. Registering here probably lets t
 
 Puts a divination spell on [[Bloodfiends]] that would help them find and kill them if they attack someone with out good reason (will sense if the person they are drinking blood from is willing or not or dead) - Lasts a couple of months
 Sometimes provides false positives
+
+Commune: Will seeking quests outside of Sight Alsward give us the best chance to win the competition: No, Alsward is uncompromised 

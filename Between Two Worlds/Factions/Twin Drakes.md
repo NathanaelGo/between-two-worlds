@@ -3,6 +3,9 @@ tags:
   - factions
 ---
 ### Notable Characters
+Mr Twindrake
+[[Vazlin Drakehound]]
+[[Tal Nial]]
 
 
 ### Notable Places

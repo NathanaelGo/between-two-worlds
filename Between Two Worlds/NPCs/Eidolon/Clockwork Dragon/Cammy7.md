@@ -13,5 +13,13 @@ aliases:
 
 ___
 ### Summary
-Can take pictures with her face
+Age: 3
+'Working' for: [[Misfy Jargon]]
+Can take pictures with her face and spits out the picture
 Employed by ???
+
+Met: 
+[[Luna1]]
+3rd golem
+2nd dragon
+5th dragon
