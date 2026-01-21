@@ -14,3 +14,5 @@ Librarian of
 ___
 ### Summary
 Gave [[Sargon]] a book to deliver to [[Meril]] that allowed her to reach [[Deathless Black Snake]] and die
+Many of her
+Special being 

@@ -14,3 +14,4 @@ aliases:
 
 ___
 ### Summary
+No past known to the [[Ghosts]]

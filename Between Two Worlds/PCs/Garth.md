@@ -9,7 +9,8 @@ aliases:
 
 ### Designations
 Member of [[ICE]]
-
+Husband of [[Wife Coldbane]]
+Father of [[Daughter Coldbane]]
 ### Current Location
 
 

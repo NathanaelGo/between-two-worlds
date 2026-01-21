@@ -3,6 +3,7 @@ tags:
   - npcs
   - god
 aliases:
+  - Specter
 ---
 *Image here*
 

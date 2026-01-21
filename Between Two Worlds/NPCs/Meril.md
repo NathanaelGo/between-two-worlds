@@ -17,4 +17,6 @@ Has a master who informed her of the party - Master was sad but when adventuring
 [[N Ko]]'s opp
 Was killed by [[Deathless Black Snake]] after completing her task
 Mage who's wrote in demonic writings
-Had 3 strikes and was supposed to get executed 
+Had 3 strikes and was supposed to get executed - strikes are given to people the arbiter doesnt trust
+catalyst for change that the Ghosts do not know what for a god we have yet to meet
+

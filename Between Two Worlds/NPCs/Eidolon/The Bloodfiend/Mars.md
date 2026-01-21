@@ -20,3 +20,6 @@ Used to be an [[Eidolons|Eidolon]] but escaped the system
 Dupe the duper
 
 Commune says we are likely to meet mars in the next few weeks - she grows in patient 
+
+
+if her plans work the world will go from living for 100's more years -> 10's more year
