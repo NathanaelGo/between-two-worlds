@@ -8,6 +8,7 @@ aliases:
 ### Designations
 Member of [[Honeycomb]]
 [[CritXX]]'s manager 
+[[Eidolons|Eidolon]] of [[The Leviathan]]
 
 ### Current Location
 

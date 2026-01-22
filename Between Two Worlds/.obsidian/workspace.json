@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dcf7e8757144bd5",
+        "id": "4c690a937b53d6e1",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e38b790c246f26",
+            "id": "a238477845674549",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Adventuring Groups/Honeycomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Honeycomb"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Events/Blacksteel Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Blacksteel Meeting"
             }
           },
           {
@@ -160,8 +160,7 @@
               "title": "Outline of Honeycomb"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,50 +177,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7e38b790c246f26",
+  "active": "a238477845674549",
   "lastOpenFiles": [
-    "NPCs/Executioner.md",
-    "Gods/The Specter.md",
-    "Factions/Adventuring Groups/Aste1's Adventuring Group.md",
-    "NPCs/Ghost/Vech'nes'kandra.md",
-    "Lore/Books and Text/Sylas of the Waves - A journal.md",
-    "NPCs/Astero.md",
-    "Places/Agarath.md",
-    "PCs/Garth.md",
-    "Gods/Deathless Black Snake.md",
-    "Places/Recollection.md",
-    "Lore/The Gods.md",
-    "Gods/Sleeping Fox.md",
-    "NPCs/Wife Coldbane.md",
-    "NPCs/Eidolon/Sleeping Fox/Umbra7.md",
-    "NPCs/Meril.md",
-    "NPCs/Ghost/Zandichar.md",
-    "Factions/Ghosts.md",
-    "NPCs/Laylah.md",
-    "NPCs/Sylas Valtail.md",
-    "Factions/Adventuring Groups/Vega1's Adventuring Group.md",
-    "Gods/Clockwork Dragon.md",
-    "Gods/Chaos King.md",
-    "Gods/Smoldering Moth.md",
-    "Gods/The Arbiter.md",
+    "NPCs/Ocena Epigath.md",
+    "Events/Blacksteel Meeting.md",
     "Gods/The Bloodfiend.md",
-    "Gods/The Leviathan.md",
-    "img_Vech'nes'kandra.png",
-    "img_zandichar.png",
-    "NPCs/Ghost",
+    "Lore/Bloodfiends.md",
+    "Gods/The Arbiter.md",
+    "NPCs/Eidolon/The Arbiter/Vega1.md",
+    "NPCs/Phobos.md",
+    "NPCs/Deimos.md",
+    "NPCs/Sentinel.md",
+    "NPCs/ZJ.md",
+    "Factions/Space Mercs.md",
+    "NPCs/Ent Viscon.md",
+    "NPCs/Ventril Barosa.md",
+    "NPCs/Varen.md",
+    "NPCs/Valter Goggins.md",
+    "NPCs/Vazlin Drakehound.md",
+    "NPCs/Gravitax Talon.md",
+    "NPCs/Plem Boblin.md",
+    "Places/Recollection.md",
+    "Feywild.md",
+    "Lore/Twin Moons.md",
+    "PCs/N Ko.md",
+    "zzz_Images/PCs/img_ko_business_card.png",
+    "Jahezri Blacksteel.md",
+    "NPCs/Callum Jade.md",
+    "Gods/The Specter.md",
+    "Factions/ICE.md",
+    "zzz_Images/NPCs/img_doze.png",
     "Untitled.base",
+    "zzz_Images/NPCs/img_Vech'nes'kandra.png",
+    "zzz_Images/NPCs/img_zandichar.png",
+    "NPCs/Ghost",
     "Factions/Adventuring Groups",
-    "img_cellos.png",
-    "img_jezena.png",
+    "zzz_Images/NPCs/img_cellos.png",
+    "zzz_Images/NPCs/img_jezena.png",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Pasted image 20260114190707.png",
     "zzz_Images/Misc/img_blacksteel_city_of_lies.png",
     "zzz_Images/Misc",
     "zzz_Images/Misc/img_Connections_Between_the_Interplanar_and_Interstellar.png",
     "zzz_Images/Misc/img_Effigy_of_a_second_kindred.png",
     "zzz_Images/Misc/img_Potential_Beyond_Purpose.png",
-    "zzz_Images/Misc/img_Sylas_of_the_Waves.png",
     "Lore/Books and Text",
     "zzz_Images/PCs",
     "zzz_Images/NPCs",

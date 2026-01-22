@@ -23,8 +23,14 @@ Pertinently keeps track of _everyone_ moving to and from the planets no matter w
 
 Has her eyes on all [[Eidolons]] she can and reports to [[The Arbiter]] and [[Blacksteel]]
 
+Knows what we asked for commune
 
+Not a single [[Eidolons|Eidolon]] of [[The Arbiter]] or [[Arbiters of Will]] that aligns with her. Self proclaimed dark horse. 'Purpose' is to go against the grain
 
+She sees everything better than anyone.
+
+Has property on [[Elysium]] [[Asphodel]] and [[Recollection]] (not first step)
+Painfully Loyal to [[The Arbiter]], made with freedom in mind
 
 AC 23
 Reaction Counterspell + prevent that spell from being cast until the next long rest (if used multiple times it only blocks the latest spell)

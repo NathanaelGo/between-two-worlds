@@ -13,3 +13,4 @@ aliases:
 
 ___
 ### Summary
+Speaks on behalf of [[Sentinel]]

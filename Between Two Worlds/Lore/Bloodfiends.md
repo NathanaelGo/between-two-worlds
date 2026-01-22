@@ -11,6 +11,8 @@ aliases:
 [[Sola1]]- High priority fang hunt target
 [[Vivian]] - High priority fang hunt target
 [[Duo]] - High priority fang hunt target
+[[Petra7]]
+
 
 On Elysium, bloodfiends are incredibly rare and in most cases shy completely away from civilization, doing their best to live as quietly as possible while feeding, albeit unsatisfyingly on livestock animals they may encounter across the plains. Elysium has made and is still making frequent attempts to integrate bloodfiends into society but oftentime these plans fall through one way or another.
 
@@ -18,3 +20,4 @@ On Asphodel, bloodfiends are exterminated on sight and without question or remor
 
 
 Bloodfiend Eidolons have a pull towards cards
+the struggle race

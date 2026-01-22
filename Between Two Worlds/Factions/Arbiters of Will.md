@@ -7,6 +7,7 @@ tags:
 [[Vega1]]
 [[Kazic Blacksteel]]
 [[Ventril Barosa]]
+[[Masha Coldsteel]]
 ### Notable Places
 
 

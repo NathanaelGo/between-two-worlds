@@ -10,6 +10,7 @@ aliases:
 
 
 ### Current Location
+Wandering around [[Elysium]]
 
 
 ___

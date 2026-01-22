@@ -7,7 +7,7 @@ aliases:
 
 ### Designations
 [[Twin Drakes]]?
-
+Possible [[Ghosts]]?
 ### Current Location
 
 

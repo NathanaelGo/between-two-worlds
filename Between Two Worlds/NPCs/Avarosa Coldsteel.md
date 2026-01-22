@@ -5,7 +5,7 @@ aliases:
 ---
 ![[img_Avarosa_Coldsteel.png]]
 ### Designations
-
+Member of [[Aste1's Adventuring Group]]
 
 ### Current Location
 

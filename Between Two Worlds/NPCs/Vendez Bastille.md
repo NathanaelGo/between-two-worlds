@@ -9,7 +9,7 @@ aliases:
 
 
 ### Current Location
-
+[[Sight Alsward]]
 
 ___
 ### Summary

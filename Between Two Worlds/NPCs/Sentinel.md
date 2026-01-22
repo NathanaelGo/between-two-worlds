@@ -13,3 +13,5 @@ aliases:
 
 ___
 ### Summary
+Does not speak
+Was with [[Ent Viscon]]

@@ -3,7 +3,7 @@ tags:
   - npcs
 aliases:
 ---
-![[Pasted image 20260114190707.png]]
+![[img_doze.png]]
 
 ### Designations
 Item seller at [[Sight Alsward|Alsward Sales and Services]]

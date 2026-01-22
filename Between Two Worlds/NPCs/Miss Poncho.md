@@ -12,5 +12,5 @@ Caretaker of [[Pio7]]
 
 ___
 ### Summary
-New manager at BREAD. (Promoted to handle Ko’s job as he leaves indefinitely)
+New manager at [[BREAD Co]]. (Promoted to handle Ko’s job as he leaves indefinitely)
 Always a bit eepy
