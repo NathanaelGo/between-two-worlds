@@ -6,7 +6,7 @@ aliases:
 ![[img_Richten_Blacksteel.png]]
 
 ### Designations
-
+Ex-[[Blacksteel]] worker
 
 ### Current Location
 
@@ -19,3 +19,5 @@ unable to dream
 unable to die
 We found his body dead and burnt it
 Wrote: [[Richten Blacksteel's Book]]
+
+Went AWOL b/c they felt like a higher up in [[Blacksteel]] was watching them

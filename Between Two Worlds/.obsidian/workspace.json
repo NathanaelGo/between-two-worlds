@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c690a937b53d6e1",
+        "id": "57f99b880097f901",
         "type": "tabs",
         "children": [
           {
-            "id": "a238477845674549",
+            "id": "97a76002134fe587",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,14 +177,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "a238477845674549",
+  "active": "97a76002134fe587",
   "lastOpenFiles": [
+    "NPCs/Richten Blacksteel.md",
+    "NPCs/Pandora.md",
+    "Factions/Ghosts.md",
+    "Factions/Adventuring Groups/Libre.md",
+    "NPCs/Ash Mustang.md",
+    "NPCs/Ghost/Lauren.md",
+    "NPCs/Ghost/Orsorzeron.md",
+    "NPCs/Meril.md",
+    "NPCs/Eidolon/Sleeping Fox/Luna1.md",
+    "NPCs/Eidolon/The Arbiter/Vega1.md",
     "NPCs/Ocena Epigath.md",
     "Events/Blacksteel Meeting.md",
     "Gods/The Bloodfiend.md",
     "Lore/Bloodfiends.md",
     "Gods/The Arbiter.md",
-    "NPCs/Eidolon/The Arbiter/Vega1.md",
     "NPCs/Phobos.md",
     "NPCs/Deimos.md",
     "NPCs/Sentinel.md",
@@ -196,16 +205,7 @@
     "NPCs/Valter Goggins.md",
     "NPCs/Vazlin Drakehound.md",
     "NPCs/Gravitax Talon.md",
-    "NPCs/Plem Boblin.md",
-    "Places/Recollection.md",
-    "Feywild.md",
-    "Lore/Twin Moons.md",
-    "PCs/N Ko.md",
     "zzz_Images/PCs/img_ko_business_card.png",
-    "Jahezri Blacksteel.md",
-    "NPCs/Callum Jade.md",
-    "Gods/The Specter.md",
-    "Factions/ICE.md",
     "zzz_Images/NPCs/img_doze.png",
     "Untitled.base",
     "zzz_Images/NPCs/img_Vech'nes'kandra.png",

@@ -6,12 +6,11 @@ aliases:
 *Image here*
 
 ### Designations
-
+[[Ghosts|Ghost]]
 
 ### Current Location
 
 
 ___
 ### Summary
-some relation to [[Tr3ty]]
-Missing
+[[Ghosts|Ghost]] that saved [[Tr3ty]]'s life

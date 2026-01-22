@@ -25,3 +25,4 @@ Not allowed in [[Agarath]]
 
 Was in a party with [[Vega1]] exploring 3rd layer of [[Recollection]] way back in the day
 Loves coffee
+Filled all the hopes she wanted. Just wanted a nice birthday and maybe she'll complete her task

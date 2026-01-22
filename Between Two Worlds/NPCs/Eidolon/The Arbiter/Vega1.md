@@ -31,6 +31,8 @@ She sees everything better than anyone.
 
 Has property on [[Elysium]] [[Asphodel]] and [[Recollection]] (not first step)
 Painfully Loyal to [[The Arbiter]], made with freedom in mind
+Spent her first 5 years with the arbiter until she was ready to be shown off 
+No hopes, no dreams, just here to be free
 
 AC 23
 Reaction Counterspell + prevent that spell from being cast until the next long rest (if used multiple times it only blocks the latest spell)
