@@ -11,6 +11,8 @@ It has been well documented that any one God only ever has seven eidolons alive 
 
 Eidolon's do not have to fulfill their given purpose. They have no instinct or obligation towards doing so and some eidolons, despite being revered as agents of God, just end up living incredibly normal lives.
 
+Bodies dont last after death
+
 
 Only the 8 following gods have [[Eidolons]]:
 - [[Sleeping Fox]]

@@ -21,3 +21,6 @@ We found his body dead and burnt it
 Wrote: [[Richten Blacksteel's Book]]
 
 Went AWOL b/c they felt like a higher up in [[Blacksteel]] was watching them
+Had a gravity cube on him
+His [[Astrom]] was completely gone
+Black ulcers over body

@@ -4,8 +4,8 @@ tags:
   - god
 aliases:
 ---
-*Image here*
-
+![[img_clockwork_dragon.png]]
+o
 ### Designations
 
 

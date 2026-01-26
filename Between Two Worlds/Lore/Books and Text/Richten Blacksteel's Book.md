@@ -13,3 +13,4 @@ I have been unable to dream since then. Unable to die. This God-given, insanity-
 ======================================
 Snake is probably referring to [[Deathless Black Snake]]
 Black steel bastard might be [[Kazic Blacksteel]]
+Has some relation to the [[Sleeping Fox]] (likes incomplete things + dreams)

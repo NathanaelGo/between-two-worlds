@@ -21,3 +21,4 @@ Had 3 strikes and was supposed to get executed - strikes are given to people the
 - First strike was losing her hands
 catalyst for change that the Ghosts do not know what for a god we have yet to meet
 Writes in glowing runic text
+magic is [[Deadzone]] pilled

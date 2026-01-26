@@ -23,3 +23,6 @@ Miscellaneous: The least worshiped God, the Arbiter is an incredibly useful yet 
 
 [[ICE]] has caught the eyes of The arbiter
 [[Bloodfiends]] wouldnt be much with out her - [[Vega1]]
+
+Strikes are symbolisms of breaking the arbiters trust
+Has a fascination with taking body parts - Typically cant get them back
