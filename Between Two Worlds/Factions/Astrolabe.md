@@ -4,7 +4,7 @@ tags:
 ---
 ### Notable Characters
 Founded in dedication to the [[Clockwork Dragon]]
-
+[[Kirsten Footfalls]]
 ### Notable Places
 
 

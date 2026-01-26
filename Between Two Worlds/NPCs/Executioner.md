@@ -6,7 +6,8 @@ aliases:
 ---
 ![[img_Executioner.png]]
 ### Designations
-Librarian of 
+Librarian of [[Monochrome Memories]]
+Not aligned with any faction
 
 ### Current Location
 

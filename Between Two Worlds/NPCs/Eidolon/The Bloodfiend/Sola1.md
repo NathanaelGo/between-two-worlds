@@ -8,7 +8,7 @@ aliases:
 
 ### Designations
 [[Eidolons|Eidolon]] of the [[Bloodfiends|Bloodfiend]]
-
+Teacher on [[Elysium]] near footfalls
 ### Current Location
 
 
