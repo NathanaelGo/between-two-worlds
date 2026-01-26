@@ -6,7 +6,7 @@ aliases:
 
 
 ### Designations
-
+Previous headguard to [[Asphodel]]'s [[Recollection]]
 
 ### Current Location
 
@@ -14,3 +14,5 @@ aliases:
 ___
 ### Summary
 Wrote: [[Blacksteel - City of Lies]]
+Lived there his entire life
+Recently died

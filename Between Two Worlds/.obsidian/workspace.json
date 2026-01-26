@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38fb92dc4414b3c9",
+        "id": "aadfad09a06ee599",
         "type": "tabs",
         "children": [
           {
-            "id": "47e3e3de3e8a4005",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Books and Text/Monochrome Memories Enchantment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monochrome Memories Enchantment"
-            }
-          },
-          {
-            "id": "65f22ba2e9dc0711",
+            "id": "cc2df7c3a55c462b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -30,51 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "20d5fc89103816f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Kirsten Footfalls.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kirsten Footfalls"
-            }
-          },
-          {
-            "id": "e0dccd09d556648c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Books and Text/Recollection Spatial Anomaly Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recollection Spatial Anomaly Analysis"
-            }
-          },
-          {
-            "id": "09a794e0b27836b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Recollection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recollection"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,35 +177,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "65f22ba2e9dc0711",
+  "active": "cc2df7c3a55c462b",
   "lastOpenFiles": [
-    "Places/Monochrome Memories.md",
-    "NPCs/Executioner.md",
-    "Lore/Books and Text/Monochrome Memories Enchantment.md",
-    "Lore/Books and Text/Recollection Spatial Anomaly Analysis.md",
-    "Places/Recollection.md",
+    "NPCs/Ophion.md",
+    "NPCs/Malachar.md",
+    "Lore/Books and Text/Effigy of a Second Kindred - A journal.md",
     "NPCs/Kirsten Footfalls.md",
-    "Factions/Astrolabe.md",
-    "NPCs/Sirus Footfall.md",
-    "NPCs/Eidolon/The Bloodfiend/Sola1.md",
-    "NPCs/Eidolon/The Bloodfiend/Mars.md",
-    "Lore/Books and Text/Richten Blacksteel's Book.md",
-    "NPCs/Richten Blacksteel.md",
-    "NPCs/Eidolon/Sleeping Fox/Luna1.md",
-    "Gods/The Arbiter.md",
-    "Factions/Arbiters of Will.md",
-    "Gods/Clockwork Dragon.md",
-    "Lore/Dragon Style Weapon.md",
-    "zzz_Images/NPCs/img_clockwork_dragon.png",
-    "Lore/Eidolons.md",
-    "NPCs/Meril.md",
-    "NPCs/Alexis Veen.md",
+    "Lore/Books and Text/Recollection Spatial Anomaly Analysis.md",
+    "Factions/Adventuring Groups/Agarthas Adventuring Expedition Team.md",
+    "NPCs/Belial.md",
     "NPCs/Pandora.md",
-    "Factions/Ghosts.md",
+    "PCs/Tr3ty.md",
+    "NPCs/Silverhand Johnny.md",
+    "Lore/Token Colors.md",
+    "NPCs/Rurela.md",
+    "NPCs/Executioner.md",
     "Factions/Adventuring Groups/Libre.md",
-    "NPCs/Ash Mustang.md",
-    "NPCs/Ghost/Lauren.md",
-    "NPCs/Ghost/Orsorzeron.md",
+    "NPCs/Eidolon/Sleeping Fox/Umbra7.md",
+    "Gods/The Arbiter.md",
+    "NPCs/Deimos.md",
+    "Factions/Ghosts.md",
+    "NPCs/Richten Blacksteel.md",
+    "zzz_Images/NPCs/img_pandora.png",
+    "Lore/Twin Moons.md",
+    "NPCs/Astero.md",
+    "Places/Agarath.md",
+    "Places/The City.md",
+    "NPCs/Marstin Silversteel.md",
+    "NPCs/Melevi Burnish.md",
+    "Factions/Untitled 3 4.md",
+    "zzz_Images/Misc/img_map_recollection_step_one.png",
+    "zzz_Images/Misc/img_map_the_city.png",
+    "zzz_Images/Misc/img_map_elysium.png",
+    "zzz_Images/NPCs/img_clockwork_dragon.png",
     "zzz_Images/PCs/img_ko_business_card.png",
     "zzz_Images/NPCs/img_doze.png",
     "Untitled.base",
@@ -271,13 +218,9 @@
     "NPCs/Ghost",
     "Factions/Adventuring Groups",
     "zzz_Images/NPCs/img_cellos.png",
-    "zzz_Images/NPCs/img_jezena.png",
     "Untitled 2.base",
     "Untitled 1.base",
-    "zzz_Images/Misc/img_blacksteel_city_of_lies.png",
     "zzz_Images/Misc",
-    "zzz_Images/Misc/img_Connections_Between_the_Interplanar_and_Interstellar.png",
-    "zzz_Images/Misc/img_Effigy_of_a_second_kindred.png",
     "Lore/Books and Text",
     "zzz_Images/PCs",
     "zzz_Images/NPCs",

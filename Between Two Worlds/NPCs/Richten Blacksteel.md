@@ -9,7 +9,7 @@ aliases:
 Ex-[[Blacksteel]] worker
 
 ### Current Location
-
+Found dead in Alsight Hill
 
 ___
 ### Summary

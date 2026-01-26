@@ -2,6 +2,8 @@
 tags:
   - places
 ---
+![[img_map_elysium.png]]
+
 ### Notable Characters
 
 
@@ -10,3 +12,4 @@ tags:
 
 ___
 ### Summary
+Mostly covered in water

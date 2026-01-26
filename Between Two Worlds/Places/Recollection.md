@@ -2,6 +2,8 @@
 tags:
   - places
 ---
+![[img_map_recollection_step_one.png]]
+
 ### Notable Characters
 
 

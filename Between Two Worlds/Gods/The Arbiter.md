@@ -26,3 +26,4 @@ Miscellaneous: The least worshiped God, the Arbiter is an incredibly useful yet 
 
 Strikes are symbolisms of breaking the arbiters trust
 Has a fascination with taking body parts - Typically cant get them back
+Has to send lackies to catch you if you have a strike and are not on [[Asphodel]]

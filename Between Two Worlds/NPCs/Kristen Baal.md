@@ -14,3 +14,4 @@ Bard/Assistant to [[Astero]]
 ___
 ### Summary
 Learning the flute
+Was reading books on music theory at the library

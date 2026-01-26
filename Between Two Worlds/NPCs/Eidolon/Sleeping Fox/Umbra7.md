@@ -22,3 +22,5 @@ Has a sword worth 7 million gold named [[Dragon Style Weapon|Somnia]] - gets sle
 3 weeks old
 Made an illegal teleportation to get [[N Ko|N]]'s attention to tell me the 4th fox died
 Can only sleep if her ears are stuffed
+
+Eidolon Task: Endless Dream

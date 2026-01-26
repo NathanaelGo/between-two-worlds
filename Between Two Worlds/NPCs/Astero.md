@@ -5,6 +5,7 @@ aliases:
 ---
 ![[img_astero.png]]
 ### Designations
+Member of [[Agarthas Adventuring Expedition Team]]
 Scholar of [[Agarath]] placed on the scorned council 
 
 ### Current Location
@@ -18,3 +19,5 @@ Has to go to [[Asphodel]] for a croissant. [[Sargon]] told her to wait a few yea
 Is being hunted
 
 scorned council - council of agarath members who disagree with the main concil - Will be heard if all scored council members agree to something
+
+Has a small tree house in [[Agarath]]
