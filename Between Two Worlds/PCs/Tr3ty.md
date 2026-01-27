@@ -3,7 +3,7 @@ tags:
   - player-characters
 aliases:
 ---
-*Image here*
+![[img_tr3ty.png]]
 
 ### Designations
 [[Eidolons|Eidolon]] of [[The Bloodfiend]]

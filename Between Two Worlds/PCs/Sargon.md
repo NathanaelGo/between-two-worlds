@@ -3,8 +3,8 @@ tags:
   - player-characters
 aliases:
 ---
-*Image here*
 
+![[img_sargon.png]]
 ### Designations
 Member of [[ICE]]
 

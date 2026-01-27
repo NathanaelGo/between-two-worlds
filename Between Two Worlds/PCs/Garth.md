@@ -5,7 +5,7 @@ aliases:
   - Garth
   - Garth Coldbane
 ---
-*Image here*
+![[img_garth.png]]
 
 ### Designations
 Member of [[ICE]]

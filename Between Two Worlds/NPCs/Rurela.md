@@ -14,6 +14,6 @@ Item seller at [[Sight Alsward|Alsward Sales and Services]]
 ___
 ### Summary
 Lives in [[Agarath]] (likely on the council there)
-Is going to college
+Is going to the college next to the [[Agarath Council]]
 Works at the [[Blacksteel]] item selling booth 
 Works under scholars 

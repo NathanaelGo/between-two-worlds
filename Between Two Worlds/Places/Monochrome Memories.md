@@ -13,3 +13,4 @@ ___
 Biggest Library across all 3 worlds
 Library where people find books they need
 Items on the podiums are protected with some magic
+Wary against the [[Arbiters of Will]]
