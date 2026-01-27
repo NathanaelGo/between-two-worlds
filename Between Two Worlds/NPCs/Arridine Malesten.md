@@ -13,3 +13,4 @@ aliases:
 
 ___
 ### Summary
+Talking with [[Arcturus]] at [[Sight Alsward|Alsward Sales and Services]]

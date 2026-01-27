@@ -13,3 +13,4 @@ aliases:
 
 ___
 ### Summary
+Talking with [[Alphons Gallows|Mr Gallows]] and [[Thel Druul]] at [[Sight Alsward|Alsward Sales and Services]]

@@ -14,7 +14,7 @@ Not aligned with any faction
 
 ___
 ### Summary
-Gave [[Sargon]] a book to deliver to [[Meril]] that allowed her to reach [[Deathless Black Snake]] and die
+Gave [[Sargon]] a hollow book to deliver to [[Meril]] that allowed her to reach [[Deathless Black Snake]] and die
 Many of her
 Special being 
 Can't leave [[Monochrome Memories]]

@@ -17,3 +17,4 @@ Lives in [[Agarath]] (likely on the council there)
 Is going to the college next to the [[Agarath Council]]
 Works at the [[Blacksteel]] item selling booth 
 Works under scholars 
+Has a Dreamy the Lucid Plush

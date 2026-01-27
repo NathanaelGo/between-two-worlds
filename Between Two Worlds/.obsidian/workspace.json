@@ -4,151 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aadfad09a06ee599",
+        "id": "defa072f319b5583",
         "type": "tabs",
         "children": [
           {
-            "id": "cc2df7c3a55c462b",
+            "id": "7b8975f3a61f2406",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Books and Text/Perpetually in Motion - An Eidolon’s diary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perpetually in Motion - An Eidolon’s diary"
-            }
-          },
-          {
-            "id": "986f83577059ff2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Leila.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leila"
-            }
-          },
-          {
-            "id": "244392c12d804149",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Rurela.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rurela"
-            }
-          },
-          {
-            "id": "3bdc86174f114b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Tr3ty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tr3ty"
-            }
-          },
-          {
-            "id": "f1df6dd82176a69c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Sargon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sargon"
-            }
-          },
-          {
-            "id": "a06dbcd274758767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/N Ko.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "N Ko"
-            }
-          },
-          {
-            "id": "4c2b652176025d65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Leila.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leila"
-            }
-          },
-          {
-            "id": "4ccba40a71ffa7b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Garth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Garth"
-            }
-          },
-          {
-            "id": "f493598b69b4d229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Books and Text/Effigy of a Second Kindred - A journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Effigy of a Second Kindred - A journal"
-            }
-          },
-          {
-            "id": "14938af0f0178a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Eidolon/Clockwork Dragon/Twyce.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Twyce"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Rurela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rurela"
+              "title": "Backlinks"
             }
           },
           {
@@ -309,43 +177,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "244392c12d804149",
+  "active": "7b8975f3a61f2406",
   "lastOpenFiles": [
-    "PCs/Yokoji.md",
-    "PCs/Leila.md",
-    "PCs/Tr3ty.md",
-    "PCs/Sargon.md",
-    "PCs/N Ko.md",
-    "PCs/Garth.md",
+    "NPCs/Ramses Fullhorn.md",
+    "NPCs/Rurela.md",
+    "NPCs/Ocena Epigath.md",
+    "NPCs/Arcturus.md",
+    "NPCs/Arridine Malesten.md",
+    "NPCs/Thel Druul.md",
+    "NPCs/Executioner.md",
+    "Places/Luna's Leave.md",
+    "NPCs/Frankel Stein.md",
+    "zzz_Images/Misc/img_book_Perpetually_in_Motion.png",
+    "zzz_Images/Misc/img_Connections_Between_the_Interplanar_and_Interstellar.png",
+    "zzz_Images/Misc/img_Effigy_of_a_second_kindred.png",
+    "NPCs/Ophion.md",
+    "NPCs/Eidolon/Clockwork Dragon/Twyce.md",
     "Lore/Books and Text/Effigy of a Second Kindred - A journal.md",
+    "PCs/Garth.md",
+    "PCs/Leila.md",
+    "PCs/N Ko.md",
+    "PCs/Sargon.md",
+    "PCs/Tr3ty.md",
+    "Lore/Books and Text/Perpetually in Motion - An Eidolon’s diary.md",
+    "PCs/Yokoji.md",
     "zzz_Images/PCs/img_garth.png",
     "zzz_Images/PCs/img_sargon.png",
     "zzz_Images/PCs/img_tr3ty.png",
     "Lore/Stars.md",
-    "NPCs/Eidolon/Clockwork Dragon/Twyce.md",
-    "Lore/Books and Text/Perpetually in Motion - An Eidolon’s diary.md",
-    "zzz_Images/Misc/img_book_Perpetually_in_Motion.png",
     "Lore/Books and Text/The Wandered-Thing - A Children’s Tale.md",
     "Lore/Books and Text/Recollection Spatial Anomaly Analysis.md",
     "Lore/Books and Text/Potential Beyond Purpose - A study on Eidolons and their nature.md",
     "Lore/Books and Text/N's Note For The Future.md",
     "Places/Monochrome Memories.md",
-    "NPCs/Ophion.md",
     "NPCs/Malachar.md",
-    "NPCs/Kirsten Footfalls.md",
-    "Factions/Adventuring Groups/Agarthas Adventuring Expedition Team.md",
-    "NPCs/Belial.md",
-    "NPCs/Pandora.md",
-    "NPCs/Silverhand Johnny.md",
-    "Lore/Token Colors.md",
-    "NPCs/Rurela.md",
-    "NPCs/Executioner.md",
     "zzz_Images/NPCs/img_pandora.png",
     "zzz_Images/Misc/img_map_recollection_step_one.png",
     "zzz_Images/Misc/img_map_the_city.png",
     "zzz_Images/Misc/img_map_elysium.png",
-    "zzz_Images/NPCs/img_clockwork_dragon.png",
-    "zzz_Images/PCs/img_ko_business_card.png",
     "Untitled.base",
     "NPCs/Ghost",
     "Factions/Adventuring Groups",
