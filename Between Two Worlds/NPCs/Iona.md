@@ -7,11 +7,10 @@ aliases:
 
 ### Designations
 Member of [[Tr3ty's Old Adventuring Group]]
-Merchant
+
 ### Current Location
 
 
 ___
 ### Summary
-Skeleton friend of [[Tr3ty]]
-Had business in [[Footfalls]]
+[[Tr3ty]]'s goblin friend

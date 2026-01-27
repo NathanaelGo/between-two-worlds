@@ -14,6 +14,9 @@ Eidolon's do not have to fulfill their given purpose. They have no instinct or o
 Bodies dont last after death
 
 
+One of the crueler tasks was to drink water - that one lived for seven days and died happy accomplishing what they wanted to - source [[Astero]]
+
+
 Only the 8 following gods have [[Eidolons]]:
 - [[Sleeping Fox]]
 - [[Wandering Golem]]

@@ -13,4 +13,4 @@ aliases:
 
 ___
 ### Summary
-Caravan master that took [[N Ko]], [[Tr3ty]], [[Astero]], and [[Kristen Baal]] to [[Feris]]
+Caravan master that took [[Umbra7]], [[N Ko]], [[Tr3ty]], [[Astero]], and [[Kristen Baal]] to [[Feris]]

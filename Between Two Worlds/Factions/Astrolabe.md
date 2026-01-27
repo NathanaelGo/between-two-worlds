@@ -10,6 +10,7 @@ Founded in dedication to the [[Clockwork Dragon]]
 
 ___
 ### Summary
+Colors: Purple/White
 Group of scientists spread across [[Elysium]] who examine fluctuating [[Astrom]] in the environment
 
 Largest exporter of text and information onto Recollection for safekeeping

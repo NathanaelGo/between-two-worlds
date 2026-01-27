@@ -21,3 +21,9 @@ Is being hunted
 scorned council - council of agarath members who disagree with the main concil - Will be heard if all scored council members agree to something
 
 Has a small tree house in [[Agarath]]
+
+Most interested in [[Astrom]], [[Astrols]], and [[Eidolons]]
+Has made [[Warforged]] before
+Astero is a fake name
+Knows stuff about [[Twin Moons]]
+Doesn't like when people go to her for power

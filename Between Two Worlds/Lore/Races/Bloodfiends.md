@@ -4,6 +4,8 @@ tags:
 aliases:
   - vampires
   - Bloodfiend
+  - 2nd Kindred
+  - 1st Kindred
 ---
 ### Notable Characters
 [[Deimos]] - High priority fang hunt target - on recollection 
@@ -21,3 +23,12 @@ On Asphodel, bloodfiends are exterminated on sight and without question or remor
 
 Bloodfiend Eidolons have a pull towards cards
 the struggle race
+
+
+#### First Kindred 
+people who take pacts with the bloodfiend, they're incredibly strong
+Can order around 2nd kindred
+
+#### Second Kindred
+born bloodfiends
+
