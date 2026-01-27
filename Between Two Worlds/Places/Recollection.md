@@ -45,6 +45,9 @@ Ruins have small amounts of astrom in the stones
 	- Pond here reflects a moon that doesnt exist. Reflection persists despite going over it with boat
 	- Underwater there's a second underwater moon at a deeper pond underwater. (there is also a manmade bridge under water)
 	-  [[Recollection Spatial Anomaly Analysis]]
+- Portal/Black Ooze Pool - Ancient Ruins
+	- Path to the 2nd layer (or pocket plane) of recollection - Portal where people long ago discovered
+	- Chaotic black goop pooled around the basin of this area
 
 ### [[Asphodel]]'s Recollection
 One entrance that is heavily guarded. Level one here is about as dangerous as Elysium's level 3
