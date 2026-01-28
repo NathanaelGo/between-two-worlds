@@ -3,7 +3,8 @@ tags:
   - npcs
   - eidolon
 aliases:
-  - Armchair therapist
+  - Armchair Therapist
+  - Lucid Dreamer
 ---
 ![[img_luna1.png]]
 
@@ -11,6 +12,7 @@ aliases:
 Member of [[Honeycomb]]
 [[Eidolons|Eidolon]] of the [[Sleeping Fox]]
 Sponsor of [[ICE]]
+[[Twin Drakes Strong People List|Twin Drakes Recognized 3rd Layer Explorer]]
 
 ### Current Location
 

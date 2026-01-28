@@ -2,12 +2,15 @@
 tags:
   - npcs
 aliases:
+  - Stacked Overflow
 ---
 ![[img_Nemesis19.png]]
 
 ### Designations
 [[Twin Drakes]]?
 Possible [[Ghosts]]?
+[[Twin Drakes Strong People List|Twin Drakes Recognized 3rd Layer Explorer]]
+
 ### Current Location
 
 

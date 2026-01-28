@@ -2,10 +2,12 @@
 tags:
   - npcs
 aliases:
+  - of Last Light
 ---
 ![[img_zenth.png]]
 
 ### Designations
+[[Twin Drakes Strong People List|Twin Drakes Recognized 3rd Layer Explorer]]
 
 
 ### Current Location

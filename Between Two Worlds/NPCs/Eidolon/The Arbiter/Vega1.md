@@ -4,12 +4,14 @@ tags:
   - eidolon
 aliases:
   - Vega
+  - Eyes of the Arbiter
 ---
 ![[img_vega1.png]]
 
 ### Designations
 Member of [[Honeycomb]]
 [[Eidolons|Eidolon]] of [[The Arbiter]]
+[[Twin Drakes Strong People List|Twin Drakes Recognized 3rd Layer Explorer]]
 
 ### Current Location
 

@@ -2,14 +2,12 @@
 tags:
   - npcs
 aliases:
-  - Assassination Protocol
 ---
-![[img_purge3.png]]
+*Image here*
 
 ### Designations
 [[Twin Drakes Strong People List|Twin Drakes Recognized 3rd Layer Explorer]]
-
-
+[[Mr Drakehound]] Wife
 ### Current Location
 
 

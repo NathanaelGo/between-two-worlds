@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29249721f081654f",
+        "id": "e653f921343e99fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a03c6167e6ae0512",
+            "id": "3140f9f6e510d421",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,51 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "d62948a82dd01c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Twin Moons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Twin Moons"
-            }
-          },
-          {
-            "id": "3b2d723dd8e948d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Recollection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recollection"
-            }
-          },
-          {
-            "id": "3ee43b7184c07224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/Deathless Black Snake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deathless Black Snake"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Recollection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Recollection"
+              "title": "Backlinks"
             }
           },
           {
@@ -195,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Recollection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recollection"
+              "title": "Outline"
             }
           }
         ],
@@ -222,34 +177,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b2d723dd8e948d7",
+  "active": "3140f9f6e510d421",
   "lastOpenFiles": [
-    "Gods/Deathless Black Snake.md",
-    "Places/Recollection.md",
-    "Factions/Twin Drakes.md",
-    "Lore/Twin Moons.md",
-    "Factions/Adventuring Groups/Tr3ty's Old Adventuring Group.md",
-    "NPCs/Iona.md",
-    "NPCs/Eidolon/Sleeping Fox/Umbra7.md",
-    "NPCs/Cellos.md",
-    "Lore/Races/Eidolons.md",
-    "PCs/Tr3ty.md",
-    "NPCs/Pip.md",
-    "Lore/Stars.md",
-    "NPCs/Astero.md",
-    "NPCs/Kristen Baal.md",
-    "NPCs/Varen.md",
-    "Factions/Stixia.md",
-    "Lore/Races/Bloodfiends.md",
-    "Lore/Books and Text/Blacksteel - City of Lies.md",
-    "Lore/Books and Text/N's Note For The Future.md",
-    "Lore/Books and Text/Monochrome Memories Enchantment.md",
-    "Lore/The Gods.md",
-    "Lore/Dragon Style Weapon.md",
+    "Lore/Twin Drakes Strong People List.md",
+    "Events/Blacksteel Meeting.md",
+    "NPCs/Mrs Drakehound.md",
+    "NPCs/Purge 3.md",
+    "NPCs/Ghost/Vech'nes'kandra.md",
+    "NPCs/Zenth.md",
+    "NPCs/Vendez Bastille.md",
+    "NPCs/Purge 2.md",
+    "NPCs/Nemesis19.md",
+    "NPCs/Gravitax Talon.md",
+    "NPCs/Eidolon/The Leviathan/Twain.md",
+    "NPCs/Eidolon/Sleeping Fox/Luna1.md",
+    "NPCs/Eidolon/The Arbiter/Vega1.md",
+    "NPCs/Mr Drakehound.md",
+    "NPCs/Hubble.md",
+    "NPCs/Beatrice Bastille.md",
+    "NPCs/ZJ.md",
+    "Jahezri Blacksteel.md",
+    "Places/Celestial Planes.md",
+    "Places/Deadzone.md",
+    "Places/Elysium.md",
+    "Places/Feris.md",
     "Lore/Astrols.md",
-    "Lore/Astrom.md",
-    "Lore/Races/Aasimar.md",
-    "Lore/Calendar.md",
+    "NPCs/Wife Coldbane.md",
+    "NPCs/Vivian.md",
+    "NPCs/Ventril Barosa.md",
     "Lore/Races",
     "zzz_Images/Misc/img_book_Perpetually_in_Motion.png",
     "zzz_Images/Misc/img_Connections_Between_the_Interplanar_and_Interstellar.png",

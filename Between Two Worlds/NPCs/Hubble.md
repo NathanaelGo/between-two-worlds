@@ -2,7 +2,7 @@
 tags:
   - npcs
 aliases:
-  - Hubble, ‘Extraplanar Explorer’
+  - Extraplanar Explorer
 ---
 
 

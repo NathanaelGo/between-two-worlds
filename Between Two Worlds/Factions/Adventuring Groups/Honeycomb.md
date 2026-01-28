@@ -5,7 +5,7 @@ tags:
 ### Notable Characters
 [[Vega1]]
 [[Luna1]]
-[[Twain]] (unconfirmed)
+[[Twain]]
 
 ### Notable Places
 

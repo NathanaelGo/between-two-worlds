@@ -20,3 +20,8 @@ Can corrupt/destroy peoples astrom
 
 They seem to have been meticulously designed for combat, protecting the plane with their lives and ensuring that any inexperienced adventurers cannot access the lower levels of Recollection. 
 Reproduce at an incredibly fast rate, making it such that no amount of attempted genocide could possibly work against them. Astrols in Recollection are classified based on their levels of danger and the further you descend into Recollection, the more dangerous they tend to get. Occasionally, an Astrol from Recollection may find itself on Elysium or Asphodel which comes with a whole new list of issues.
+
+
+
+### Misc
+When trying to transplant Astrols between [[Elysium]] and [[Asphodel]] they die halfway through the teleport
