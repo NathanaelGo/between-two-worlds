@@ -39,3 +39,5 @@ No hopes, no dreams, just here to be free
 AC 23
 Reaction Counterspell + prevent that spell from being cast until the next long rest (if used multiple times it only blocks the latest spell)
 Legendary Resistance
+Immune to physic damage
+When dropping to zero, all the chains in the area wrap around her and lock her out of getting hurt more - lasts as long as the arbiter wants it to - she's practically immortal 

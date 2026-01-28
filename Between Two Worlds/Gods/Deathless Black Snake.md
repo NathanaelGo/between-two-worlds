@@ -17,3 +17,4 @@ ___
 Do not seek it, but if you must, bring nothing but silence, and pray it finds you less curious than I.
 [[The Arbiter]] fears her
 Petty Being that likes suffering
+Has [[Umbra7]] in her custody

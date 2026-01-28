@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e653f921343e99fe",
+        "id": "c19bd484b6efddc4",
         "type": "tabs",
         "children": [
           {
-            "id": "3140f9f6e510d421",
+            "id": "00127d257687288d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,10 +177,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "3140f9f6e510d421",
+  "active": "00127d257687288d",
   "lastOpenFiles": [
-    "Lore/Twin Drakes Strong People List.md",
+    "zzz_Images/Misc/Token/img_token_laylah.png",
+    "zzz_Images/Misc/Token/img_token_deathless_black_snake.png",
+    "zzz_Images/Misc/Token/img_token_1zon.png",
+    "zzz_Images/Misc/Token",
+    "Events/Theater of Blood.md",
     "Events/Blacksteel Meeting.md",
+    "Gods/Deathless Black Snake.md",
+    "PCs/Garth.md",
+    "NPCs/Wife Coldbane.md",
+    "NPCs/Phobos.md",
+    "NPCs/Kazic Blacksteel.md",
+    "NPCs/Eidolon/Deathless Black Snake/1zon.md",
+    "NPCs/Eidolon/Sleeping Fox/Umbra7.md",
+    "Lore/Token Colors.md",
+    "NPCs/Executioner.md",
+    "NPCs/Eidolon/The Arbiter/Vega1.md",
+    "Lore/Books and Text/The Wandered-Thing - A Children’s Tale.md",
+    "Lore/Twin Drakes Strong People List.md",
     "NPCs/Mrs Drakehound.md",
     "NPCs/Purge 3.md",
     "NPCs/Ghost/Vech'nes'kandra.md",
@@ -191,20 +207,7 @@
     "NPCs/Gravitax Talon.md",
     "NPCs/Eidolon/The Leviathan/Twain.md",
     "NPCs/Eidolon/Sleeping Fox/Luna1.md",
-    "NPCs/Eidolon/The Arbiter/Vega1.md",
     "NPCs/Mr Drakehound.md",
-    "NPCs/Hubble.md",
-    "NPCs/Beatrice Bastille.md",
-    "NPCs/ZJ.md",
-    "Jahezri Blacksteel.md",
-    "Places/Celestial Planes.md",
-    "Places/Deadzone.md",
-    "Places/Elysium.md",
-    "Places/Feris.md",
-    "Lore/Astrols.md",
-    "NPCs/Wife Coldbane.md",
-    "NPCs/Vivian.md",
-    "NPCs/Ventril Barosa.md",
     "Lore/Races",
     "zzz_Images/Misc/img_book_Perpetually_in_Motion.png",
     "zzz_Images/Misc/img_Connections_Between_the_Interplanar_and_Interstellar.png",
@@ -212,10 +215,6 @@
     "zzz_Images/PCs/img_garth.png",
     "zzz_Images/PCs/img_sargon.png",
     "zzz_Images/PCs/img_tr3ty.png",
-    "zzz_Images/NPCs/img_pandora.png",
-    "zzz_Images/Misc/img_map_recollection_step_one.png",
-    "zzz_Images/Misc/img_map_the_city.png",
-    "zzz_Images/Misc/img_map_elysium.png",
     "Untitled.base",
     "NPCs/Ghost",
     "Factions/Adventuring Groups",
@@ -223,7 +222,6 @@
     "Untitled 1.base",
     "zzz_Images/Misc",
     "Lore/Books and Text",
-    "zzz_Images/PCs",
-    "zzz_Images/NPCs"
+    "zzz_Images/PCs"
   ]
 }

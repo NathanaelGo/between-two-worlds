@@ -26,5 +26,6 @@ Has a sword worth 7 million gold named [[Dragon Style Weapon|Somnia]] - gets sle
 3 weeks old
 Made an illegal teleportation to get [[N Ko|N]]'s attention to tell me the 4th fox died
 Can only sleep if her ears are stuffed
+Foxnapped in by [[Deathless Black Snake]]
 
 Eidolon Task: Endless Dream - [[Astero]] thinks this means to die
