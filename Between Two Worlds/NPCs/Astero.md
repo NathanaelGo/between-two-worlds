@@ -5,7 +5,7 @@ aliases:
 ---
 ![[img_astero.png]]
 ### Designations
-Member of [[Agarthas Adventuring Expedition Team]]
+Member of [[Agarath's Adventuring Expedition Team]]
 Scholar of [[Agarath]] placed on the scorned council 
 
 ### Current Location

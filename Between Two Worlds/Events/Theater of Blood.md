@@ -7,12 +7,12 @@ tags:
 [[Laylah]]
 [[Luna1]] - Killed
 [[ICE]]
-[[Meril]]
-[[Umbra7]]
+[[Meril]] - Killed
+[[Umbra7]] - Kidnapped
 [[Sargon]]
 [[N Ko]]
 [[Tr3ty]]
-[[Yokoji]]
+[[Yokoichi]]
 [[Garth]]
 [[Phobos]]
 [[Ophion]]

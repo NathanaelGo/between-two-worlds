@@ -19,6 +19,6 @@ Was killed by [[Deathless Black Snake]] after completing her task
 Mage who's wrote in demonic writings
 Had 3 strikes and was supposed to get executed - strikes are given to people the arbiter doesnt trust
 - First strike was losing her hands
-catalyst for change that the Ghosts do not know what for a god we have yet to meet
+catalyst for change that the Ghosts do not know what for a god ([[Chaos King]]) we have yet to meet
 Writes in glowing runic text
 magic is [[Deadzone]] pilled

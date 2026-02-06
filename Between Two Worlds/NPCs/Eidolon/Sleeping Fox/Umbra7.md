@@ -28,4 +28,4 @@ Made an illegal teleportation to get [[N Ko|N]]'s attention to tell me the 4th f
 Can only sleep if her ears are stuffed
 Foxnapped in by [[Deathless Black Snake]]
 
-Eidolon Task: Endless Dream - [[Astero]] thinks this means to die
+Eidolon Task: Endless Dream - [[Astero]] thinks this means to die - [[Sleeping Fox]] pointed to the [[True Dream]] when asked

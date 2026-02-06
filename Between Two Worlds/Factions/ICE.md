@@ -9,7 +9,7 @@ aliases:
 [[N Ko|N]] & [[N Ko|Ko]]
 [[Garth]]
 [[Sargon]]
-[[Yokoji]]
+[[Yokoichi]]
 [[Tr3ty]]
 [[Leila]]
 [[Umbra7]] - Missing

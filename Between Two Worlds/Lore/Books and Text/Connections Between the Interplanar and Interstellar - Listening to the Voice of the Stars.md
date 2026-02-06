@@ -29,4 +29,4 @@ And then, there’s the [[Deadzone]]. The stars there aren’t faint like you’
 So yeah, across all these worlds and planes, astronomy isn’t just about looking up—it’s about understanding how everything’s connected. The stars hold secrets, warnings, and promises—if you can figure out how to read between their lines.
 
 ======================================
-Book for [[Yokoji]] from [[Monochrome Memories]]
+Book for [[Yokoichi]] from [[Monochrome Memories]]

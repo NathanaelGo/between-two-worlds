@@ -15,6 +15,7 @@ Portable hole laboratory hidden in a simple tent at the base of [[Sight Alsward]
 
 ___
 ### Summary
+[[Frankel Stein]] works for him
 Used to be much more closely monitored by [[Arbiters of Will]]
 Has a giant laboratory
 Because of recent events absolute caution is necessary 

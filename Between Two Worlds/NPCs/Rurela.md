@@ -5,7 +5,7 @@ aliases:
 ---
 ![[img_Rurela.png]]
 ### Designations
-Member of [[Agarthas Adventuring Expedition Team]]
+Member of [[Agarath's Adventuring Expedition Team]]
 Item seller at [[Sight Alsward|Alsward Sales and Services]]
 
 ### Current Location

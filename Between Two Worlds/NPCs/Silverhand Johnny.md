@@ -5,7 +5,7 @@ aliases:
 ---
 ![[img_Silverhand_Johnny.png]]
 ### Designations
-Member of [[Agarthas Adventuring Expedition Team]]
+Member of [[Agarath's Adventuring Expedition Team]]
 [[Astrolabe]]
 
 ### Current Location

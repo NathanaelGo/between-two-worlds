@@ -4,6 +4,9 @@ tags:
 aliases:
   - N
   - Ko
+  - N7Ko
+  - N6Ko
+  - N5Ko
 ---
 ![[img_N_Ko.png]]
 ![[img_ko_business_card.png]]

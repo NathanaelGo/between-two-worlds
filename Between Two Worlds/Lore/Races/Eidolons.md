@@ -16,6 +16,7 @@ Bodies dont last after death
 
 One of the crueler tasks was to drink water - that one lived for seven days and died happy accomplishing what they wanted to - source [[Astero]]
 
+Can exist before being born - doesnt count towards the Eidolon total
 
 Only the 8 following gods have [[Eidolons]]:
 - [[Sleeping Fox]]

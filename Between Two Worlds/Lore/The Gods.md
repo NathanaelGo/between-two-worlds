@@ -12,6 +12,7 @@ More than 10 less than 20 - according to the [[Ghosts]]
 	- [[The Arbiter]] is an ally
 	- [[The Bloodfiend]] neutral to ghosts
 	- [[Sleeping Fox]] - neutral 
+	- When [[N Ko|N]] asked the [[Sleeping Fox]] what an outsider god is the response was 'Nothing'
 - Neither - Snake and King
 
 

@@ -6,7 +6,7 @@ aliases:
 ![[img_Belial.png]]
 
 ### Designations
-Member of [[Agarthas Adventuring Expedition Team]]
+Member of [[Agarath's Adventuring Expedition Team]]
 
 ### Current Location
 

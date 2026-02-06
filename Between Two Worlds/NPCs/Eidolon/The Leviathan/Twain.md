@@ -4,7 +4,7 @@ tags:
 aliases:
   - Inverted Silence
 ---
-
+![[img_twain.png]]
 
 ### Designations
 Member of [[Honeycomb]]

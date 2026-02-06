@@ -6,7 +6,7 @@ aliases:
 ![[img_Melevi_Burnish.png]]
 
 ### Designations
-Member of [[Agarthas Adventuring Expedition Team]]
+Member of [[Agarath's Adventuring Expedition Team]]
 Uses the [[Smoldering Moth]]'s power
 
 ### Current Location

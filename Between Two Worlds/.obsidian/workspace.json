@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c19bd484b6efddc4",
+        "id": "27667d6bc82475d8",
         "type": "tabs",
         "children": [
           {
-            "id": "00127d257687288d",
+            "id": "e7aa1c04e77b9e5c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -108,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Blacksteel Meeting.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Blacksteel Meeting"
+              "title": "Outgoing links"
             }
           },
           {
@@ -160,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,44 +176,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "00127d257687288d",
+  "active": "e7aa1c04e77b9e5c",
   "lastOpenFiles": [
+    "NPCs/Eidolon/Sleeping Fox/Umbra7.md",
+    "PCs/Yokoichi.md",
+    "Gods/Sleeping Fox.md",
+    "Places/True Dream.md",
+    "Lore/The Gods.md",
+    "PCs/N Ko.md",
+    "NPCs/Eidolon/Sleeping Fox/Mira7.md",
+    "Lore/Races/Eidolons.md",
+    "the fox.md",
+    "Lore/Books and Text/Richten Blacksteel's Book.md",
+    "Gods/The Leviathan.md",
+    "NPCs/Avery Blacksteel.md",
+    "Lore/Books and Text/Mira's First Note.md",
+    "zzz_Images/Misc/img_book_Miras_first_note.png",
+    "NPCs/Vazlin Drakehound.md",
+    "zzz_Images/NPCs/img_mira7.png",
+    "zzz_Images/NPCs/img_Sleeping_Fox.png",
+    "Gods/Clockwork Dragon.md",
+    "Lore/Twin Drakes Strong People List.md",
+    "Lore/Token Colors.md",
+    "Lore/Planets.md",
+    "Gods/Deathless Black Snake.md",
+    "NPCs/Eidolon/The Leviathan/Twain.md",
+    "NPCs/Empel Royal.md",
+    "NPCs/Eidolon/Clockwork Dragon/Twyce.md",
+    "NPCs/Eidolon/Clockwork Dragon/Cammy7.md",
+    "NPCs/Eidolon/Clockwork Dragon/Proto4.md",
+    "Lore/Astrols.md",
+    "NPCs/Alexis Veen.md",
+    "zzz_Images/NPCs/img_tethys.png",
+    "zzz_Images/NPCs/img_twain.png",
     "zzz_Images/Misc/Token/img_token_laylah.png",
     "zzz_Images/Misc/Token/img_token_deathless_black_snake.png",
     "zzz_Images/Misc/Token/img_token_1zon.png",
     "zzz_Images/Misc/Token",
-    "Events/Theater of Blood.md",
-    "Events/Blacksteel Meeting.md",
-    "Gods/Deathless Black Snake.md",
-    "PCs/Garth.md",
-    "NPCs/Wife Coldbane.md",
-    "NPCs/Phobos.md",
-    "NPCs/Kazic Blacksteel.md",
-    "NPCs/Eidolon/Deathless Black Snake/1zon.md",
-    "NPCs/Eidolon/Sleeping Fox/Umbra7.md",
-    "Lore/Token Colors.md",
-    "NPCs/Executioner.md",
-    "NPCs/Eidolon/The Arbiter/Vega1.md",
-    "Lore/Books and Text/The Wandered-Thing - A Children’s Tale.md",
-    "Lore/Twin Drakes Strong People List.md",
-    "NPCs/Mrs Drakehound.md",
-    "NPCs/Purge 3.md",
-    "NPCs/Ghost/Vech'nes'kandra.md",
-    "NPCs/Zenth.md",
-    "NPCs/Vendez Bastille.md",
-    "NPCs/Purge 2.md",
-    "NPCs/Nemesis19.md",
-    "NPCs/Gravitax Talon.md",
-    "NPCs/Eidolon/The Leviathan/Twain.md",
-    "NPCs/Eidolon/Sleeping Fox/Luna1.md",
-    "NPCs/Mr Drakehound.md",
     "Lore/Races",
     "zzz_Images/Misc/img_book_Perpetually_in_Motion.png",
     "zzz_Images/Misc/img_Connections_Between_the_Interplanar_and_Interstellar.png",
-    "zzz_Images/Misc/img_Effigy_of_a_second_kindred.png",
-    "zzz_Images/PCs/img_garth.png",
-    "zzz_Images/PCs/img_sargon.png",
-    "zzz_Images/PCs/img_tr3ty.png",
     "Untitled.base",
     "NPCs/Ghost",
     "Factions/Adventuring Groups",

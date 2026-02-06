@@ -20,7 +20,7 @@ tags:
 [[Klara Zarcovich]]
 [[Masha Coldsteel]]
 [[Purge 3]]
-[[Vazlin Drakehound]]
+[[Avery Blacksteel]]
 [[Purge 2]]
 
 [[Plem Boblin]]

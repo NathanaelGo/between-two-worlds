@@ -5,7 +5,6 @@ tags:
 aliases:
 ---
 ![[img_clockwork_dragon.png]]
-o
 ### Designations
 
 
