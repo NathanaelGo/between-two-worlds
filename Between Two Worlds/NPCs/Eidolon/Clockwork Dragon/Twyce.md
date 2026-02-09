@@ -11,7 +11,7 @@ aliases:
 [[Eidolons|Eidolon]] of the [[Clockwork Dragon]]
 
 ### Current Location
-
+[[Asphodel]]
 
 ___
 ### Summary

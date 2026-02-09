@@ -16,10 +16,12 @@ Bodies dont last after death
 
 One of the crueler tasks was to drink water - that one lived for seven days and died happy accomplishing what they wanted to - source [[Astero]]
 
-Can exist before being born - doesnt count towards the Eidolon total
+Can exist before being born - doesn't count towards the Eidolon total
+
+The [[The Arbiter]] is taking over the [[Sleeping Fox]]'s [[Eidolons]] including managing their tasks and keeping them updated.
 
 Only the 8 following gods have [[Eidolons]]:
-- [[Sleeping Fox]]
+- [[Sleeping Fox]] - No more are going to be made
 - [[Wandering Golem]]
 - [[The Bloodfiend]]
 - [[The Arbiter]]

@@ -6,6 +6,8 @@ People of omnipotent capable of doing anything to any amount of people or any am
 
 More than 10 less than 20 - according to the [[Ghosts]]
 
+After reaching a certain point of power, the gods lend an aspect of their power to people. (reverberation effects)
+
 3 categories:
 - Insiders - forces of nature - wont harm us if we don't harm them or their followers 
 - Outsider 

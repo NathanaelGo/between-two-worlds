@@ -11,6 +11,7 @@ aliases:
 [[Vech'nes'kandra]] aka Sky
 [[Lauren]] - might be mispelled
 [[Orsorzeron]] - might be mispelled
+[[Rurela]]
 [[Garth]] - Initiate member
 [[N Ko|Ko]] - Initiate member
 

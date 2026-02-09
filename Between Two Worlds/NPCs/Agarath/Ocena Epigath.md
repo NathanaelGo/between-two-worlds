@@ -6,10 +6,10 @@ aliases:
 ![[img_Ocena_Epigath.png]]
 
 ### Designations
-
+Member of the [[Agarath Council]]
 
 ### Current Location
-
+[[Agarath]]
 
 ___
 ### Summary
